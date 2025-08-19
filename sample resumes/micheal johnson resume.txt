@@ -1,0 +1,14 @@
+Michael Johnson
+Email: michael.johnson@mail.com
+Phone: +44 7911 123456
+
+Skills: Linux, Python, SQL
+
+Experience:
+
+Database Administrator at DataFirm (2018-2024)
+
+Managed SQL databases and Linux servers.
+
+Education:
+BSc in Information Technology, City College (2014-2018)

@@ -1,0 +1,14 @@
+Jane Smith
+Email: janesmith@email.com
+Phone: (555) 987-6543
+
+Skills: C++, HTML, CSS, JavaScript
+
+Experience:
+
+Frontend Developer at WebWorks (2020-2025)
+
+Designed responsive websites using HTML, CSS, and JavaScript.
+
+Education:
+Bachelor of Arts in Graphic Design, Art Institute (2016-2020)

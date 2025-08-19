@@ -1,0 +1,14 @@
+David Wilson
+Email: david.wilson@xyz.com
+Phone: 555.246.1357
+
+Skills: JavaScript, HTML, CSS, Linux
+
+Experience:
+
+Web Developer at CreativeTech (2019-2024)
+
+Built and maintained websites with JavaScript and CSS.
+
+Education:
+BS in Computer Engineering, Tech University (2014-2018)
